@@ -1,0 +1,9 @@
+D:\source\palladium\Solutions\IQCare.Core\IQCare.Library\bin\Debug\netcoreapp2.0\IQCare.Library.deps.json
+D:\source\palladium\Solutions\IQCare.Core\IQCare.Library\bin\Debug\netcoreapp2.0\IQCare.Library.dll
+D:\source\palladium\Solutions\IQCare.Core\IQCare.Library\bin\Debug\netcoreapp2.0\IQCare.Library.pdb
+D:\source\palladium\Solutions\IQCare.Core\IQCare.Library\obj\Debug\netcoreapp2.0\IQCare.Library.csproj.CoreCompileInputs.cache
+D:\source\palladium\Solutions\IQCare.Core\IQCare.Library\obj\Debug\netcoreapp2.0\IQCare.Library.AssemblyInfoInputs.cache
+D:\source\palladium\Solutions\IQCare.Core\IQCare.Library\obj\Debug\netcoreapp2.0\IQCare.Library.AssemblyInfo.cs
+D:\source\palladium\Solutions\IQCare.Core\IQCare.Library\obj\Debug\netcoreapp2.0\IQCare.Library.dll
+D:\source\palladium\Solutions\IQCare.Core\IQCare.Library\obj\Debug\netcoreapp2.0\IQCare.Library.pdb
+D:\source\palladium\Solutions\IQCare.Core\IQCare.Library\obj\Debug\netcoreapp2.0\IQCare.Library.csprojResolveAssemblyReference.cache

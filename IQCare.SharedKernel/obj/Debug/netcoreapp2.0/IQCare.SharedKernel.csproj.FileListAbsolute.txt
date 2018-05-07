@@ -1,0 +1,8 @@
+D:\source\palladium\Solutions\IQCare.Core\IQCare.SharedKernel\bin\Debug\netcoreapp2.0\IQCare.SharedKernel.deps.json
+D:\source\palladium\Solutions\IQCare.Core\IQCare.SharedKernel\bin\Debug\netcoreapp2.0\IQCare.SharedKernel.dll
+D:\source\palladium\Solutions\IQCare.Core\IQCare.SharedKernel\bin\Debug\netcoreapp2.0\IQCare.SharedKernel.pdb
+D:\source\palladium\Solutions\IQCare.Core\IQCare.SharedKernel\obj\Debug\netcoreapp2.0\IQCare.SharedKernel.csproj.CoreCompileInputs.cache
+D:\source\palladium\Solutions\IQCare.Core\IQCare.SharedKernel\obj\Debug\netcoreapp2.0\IQCare.SharedKernel.AssemblyInfoInputs.cache
+D:\source\palladium\Solutions\IQCare.Core\IQCare.SharedKernel\obj\Debug\netcoreapp2.0\IQCare.SharedKernel.AssemblyInfo.cs
+D:\source\palladium\Solutions\IQCare.Core\IQCare.SharedKernel\obj\Debug\netcoreapp2.0\IQCare.SharedKernel.dll
+D:\source\palladium\Solutions\IQCare.Core\IQCare.SharedKernel\obj\Debug\netcoreapp2.0\IQCare.SharedKernel.pdb

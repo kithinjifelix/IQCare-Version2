@@ -1,0 +1,12 @@
+D:\source\palladium\Solutions\IQCare.Core\IQCare.Common.Core\bin\Debug\netcoreapp2.0\IQCare.Common.Core.deps.json
+D:\source\palladium\Solutions\IQCare.Core\IQCare.Common.Core\bin\Debug\netcoreapp2.0\IQCare.Common.Core.dll
+D:\source\palladium\Solutions\IQCare.Core\IQCare.Common.Core\bin\Debug\netcoreapp2.0\IQCare.Common.Core.pdb
+D:\source\palladium\Solutions\IQCare.Core\IQCare.Common.Core\bin\Debug\netcoreapp2.0\IQCare.SharedKernel.dll
+D:\source\palladium\Solutions\IQCare.Core\IQCare.Common.Core\bin\Debug\netcoreapp2.0\IQCare.SharedKernel.pdb
+D:\source\palladium\Solutions\IQCare.Core\IQCare.Common.Core\obj\Debug\netcoreapp2.0\IQCare.Common.Core.csprojResolveAssemblyReference.cache
+D:\source\palladium\Solutions\IQCare.Core\IQCare.Common.Core\obj\Debug\netcoreapp2.0\IQCare.Common.Core.csproj.CoreCompileInputs.cache
+D:\source\palladium\Solutions\IQCare.Core\IQCare.Common.Core\obj\Debug\netcoreapp2.0\IQCare.Common.Core.AssemblyInfoInputs.cache
+D:\source\palladium\Solutions\IQCare.Core\IQCare.Common.Core\obj\Debug\netcoreapp2.0\IQCare.Common.Core.AssemblyInfo.cs
+D:\source\palladium\Solutions\IQCare.Core\IQCare.Common.Core\obj\Debug\netcoreapp2.0\IQCare.Common.Core.csproj.CopyComplete
+D:\source\palladium\Solutions\IQCare.Core\IQCare.Common.Core\obj\Debug\netcoreapp2.0\IQCare.Common.Core.dll
+D:\source\palladium\Solutions\IQCare.Core\IQCare.Common.Core\obj\Debug\netcoreapp2.0\IQCare.Common.Core.pdb

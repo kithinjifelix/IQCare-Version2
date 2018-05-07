@@ -1,0 +1,16 @@
+D:\source\palladium\Solutions\IQCare.Core\IQCare.Common.Infrastructure\bin\Debug\netcoreapp2.0\IQCare.Common.Infrastructure.deps.json
+D:\source\palladium\Solutions\IQCare.Core\IQCare.Common.Infrastructure\bin\Debug\netcoreapp2.0\IQCare.Common.Infrastructure.dll
+D:\source\palladium\Solutions\IQCare.Core\IQCare.Common.Infrastructure\bin\Debug\netcoreapp2.0\IQCare.Common.Infrastructure.pdb
+D:\source\palladium\Solutions\IQCare.Core\IQCare.Common.Infrastructure\bin\Debug\netcoreapp2.0\IQCare.Common.Core.dll
+D:\source\palladium\Solutions\IQCare.Core\IQCare.Common.Infrastructure\bin\Debug\netcoreapp2.0\IQCare.SharedKernel.dll
+D:\source\palladium\Solutions\IQCare.Core\IQCare.Common.Infrastructure\bin\Debug\netcoreapp2.0\IQCare.SharedKernel.Infrastructure.dll
+D:\source\palladium\Solutions\IQCare.Core\IQCare.Common.Infrastructure\bin\Debug\netcoreapp2.0\IQCare.Common.Core.pdb
+D:\source\palladium\Solutions\IQCare.Core\IQCare.Common.Infrastructure\bin\Debug\netcoreapp2.0\IQCare.SharedKernel.Infrastructure.pdb
+D:\source\palladium\Solutions\IQCare.Core\IQCare.Common.Infrastructure\bin\Debug\netcoreapp2.0\IQCare.SharedKernel.pdb
+D:\source\palladium\Solutions\IQCare.Core\IQCare.Common.Infrastructure\obj\Debug\netcoreapp2.0\IQCare.Common.Infrastructure.csprojResolveAssemblyReference.cache
+D:\source\palladium\Solutions\IQCare.Core\IQCare.Common.Infrastructure\obj\Debug\netcoreapp2.0\IQCare.Common.Infrastructure.csproj.CoreCompileInputs.cache
+D:\source\palladium\Solutions\IQCare.Core\IQCare.Common.Infrastructure\obj\Debug\netcoreapp2.0\IQCare.Common.Infrastructure.AssemblyInfoInputs.cache
+D:\source\palladium\Solutions\IQCare.Core\IQCare.Common.Infrastructure\obj\Debug\netcoreapp2.0\IQCare.Common.Infrastructure.AssemblyInfo.cs
+D:\source\palladium\Solutions\IQCare.Core\IQCare.Common.Infrastructure\obj\Debug\netcoreapp2.0\IQCare.Common.Infrastructure.csproj.CopyComplete
+D:\source\palladium\Solutions\IQCare.Core\IQCare.Common.Infrastructure\obj\Debug\netcoreapp2.0\IQCare.Common.Infrastructure.dll
+D:\source\palladium\Solutions\IQCare.Core\IQCare.Common.Infrastructure\obj\Debug\netcoreapp2.0\IQCare.Common.Infrastructure.pdb
